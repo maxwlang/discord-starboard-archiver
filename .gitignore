@@ -1,2 +1,5 @@
 dist/**
 node_modules/**
+.envrc
+output
+.DS_Store
